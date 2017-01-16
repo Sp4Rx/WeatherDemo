@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherDemo</string>
+    <string name="top_title">Openweathermap API</string>
+    <string name="title1">Weather Info</string>
+    <string name="search_hint">Enter Location</string>
+    <string name="button_text"> Get Weather Info</string>
+    <string name="temp">0</string>
+    <string name="humidity">0</string>
+    <string name="pressure">0</string>
+</resources>
